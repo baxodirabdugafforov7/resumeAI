@@ -6,6 +6,11 @@ function App() {
       <div>
         Hello World
       </div>
+
+      <div>
+        This div was created to 
+        check git hub connection
+      </div>
     </>
   )
 }
